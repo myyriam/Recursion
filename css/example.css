@@ -1,0 +1,37 @@
+table, th, td{
+	border: 1px solid blue;
+	text-align: center;
+	padding: 5px;
+}
+
+#encabezado{
+	font-family: comic;
+	padding: 10px;
+	text-align: center;
+}
+
+body{
+	background-color: 3399FF;
+	margin: 13px;
+}
+
+.formulario{
+	text-align: center;
+}
+
+img{
+	width: 40px;
+	height: 40px;
+	margin: 0px 10px;
+}
+
+.imagenes{
+	text-align: center;
+}
+
+#numero{
+	text-align: center;
+	background-color: 9900FF;
+	margin: 15px;
+}
+
